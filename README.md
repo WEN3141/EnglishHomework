@@ -1,11 +1,11 @@
 ## H2 sized header: EnglishHomework
 #### H4 sized header: 吉林大学2022下半学期计算机专业英语第一章作业
 
-link between markdown pages: [Image.md](https://github.com/WEN3141/EnglishHomework/blob/main/Image.md)
+**link between markdown pages:** [Image.md](https://github.com/WEN3141/EnglishHomework/blob/main/Image.md)
 
-external web site: [external web site](https://when.zone/)
+**external web site:**[external web site](https://when.zone/)
 
-a code block with syntax highlighting for the programming language being used:
+**a code block with syntax highlighting for the programming language being used:**
 
 ```C++
 bool hasAlternatingBits(int n) {
@@ -16,12 +16,15 @@ bool hasAlternatingBits(int n) {
 
 > a block quote
 
-a bulleted list:
+**a bulleted list:**
 * item1
 * item2
     * item1
 
-a numbered list:
+**a numbered list:**
 1. item1
 1. item2
 1. item3
+
+*italicized text*
+**bolded text**
