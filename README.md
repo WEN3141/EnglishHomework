@@ -20,3 +20,8 @@ a bulleted list:
 * item1
 * item2
     * item1
+
+a numbered list:
+1. item1
+1. item2
+    2. item1
