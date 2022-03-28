@@ -5,7 +5,7 @@ link between markdown pages: [Image.md](https://github.com/WEN3141/EnglishHomewo
 
 external web site: [external web site](https://when.zone/)
 
-a code block with syntax highlighting for the programming language being used.
+a code block with syntax highlighting for the programming language being used:
 
 ```C++
 bool hasAlternatingBits(int n) {
@@ -13,3 +13,10 @@ bool hasAlternatingBits(int n) {
     return (a & (a+1))== 0;
 }
 ```
+
+> a block quote
+
+a bulleted list:
+* item1
+* item2
+    * item1
