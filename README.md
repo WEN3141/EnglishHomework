@@ -33,11 +33,7 @@ bool hasAlternatingBits(int n) {
 **bolded text**
 
 *italicized text*
-
-
-
-
-
+<br><br><br>
 ~~strikethrough text~~
 
 
