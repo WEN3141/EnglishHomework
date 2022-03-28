@@ -4,3 +4,12 @@
 link between markdown pages: [Image.md](https://github.com/WEN3141/EnglishHomework/blob/main/Image.md)
 
 external web site: [external web site](https://when.zone/)
+
+a code block with syntax highlighting for the programming language being used.
+
+```C++
+    bool hasAlternatingBits(int n) {
+        long a = n ^ (n>>1);
+        return (a & (a+1))== 0;
+    }
+```
