@@ -25,8 +25,6 @@ bool hasAlternatingBits(int n) {
 1. item1
 1. item2
 1. item3
-    2.item1
-    2.item2
 
 *italicized text*
 
