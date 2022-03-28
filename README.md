@@ -30,8 +30,8 @@ bool hasAlternatingBits(int n) {
 |----------|-------|
 |WHEN|1|
 
-*italicized text*
-
 **bolded text**
+
+*italicized text*
 
 ~~strikethrough text~~
