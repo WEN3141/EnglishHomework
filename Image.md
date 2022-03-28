@@ -2,7 +2,7 @@ README.md网址：[README.md](https://github.com/WEN3141/EnglishHomework/blob/ma
 
 image on the web
 
-![xxx](https://when.zone/assets/images/logos/pai.jpg)
+![image](https://when.zone/assets/images/logos/pai.jpg)
 
 
 image in the directory
