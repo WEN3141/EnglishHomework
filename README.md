@@ -26,6 +26,12 @@ bool hasAlternatingBits(int n) {
 1. item2
 1. item3
 
+|Table Name| Number|
+|----------|-------|
+|WHEN|1|
+
 *italicized text*
 
 **bolded text**
+
+~~strikethrough text~~
