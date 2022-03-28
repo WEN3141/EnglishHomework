@@ -8,8 +8,8 @@ external web site: [external web site](https://when.zone/)
 a code block with syntax highlighting for the programming language being used.
 
 ```C++
-    bool hasAlternatingBits(int n) {
-        long a = n ^ (n>>1);
-        return (a & (a+1))== 0;
-    }
+bool hasAlternatingBits(int n) {
+    long a = n ^ (n>>1);
+    return (a & (a+1))== 0;
+}
 ```
