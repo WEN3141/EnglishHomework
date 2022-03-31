@@ -17,9 +17,9 @@ bool hasAlternatingBits(int n) {
 > a block quote
 
 **a bulleted list:**
-* [ ]item1
-* [ ]item2
-* [ ]item3
+- [ ] item1
+- [ ] item2
+- [ ] item3
 
 **a numbered list:**
 1. item1
