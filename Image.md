@@ -2,9 +2,9 @@ link between markdown pages：[README.md](https://github.com/WEN3141/EnglishHome
 
 image on the web(https://when.zone/assets/images/logos/pai.jpg):
 
-![webImage](https://when.zone/assets/images/logos/pai.jpg "webImage")
+![WebImage](https://when.zone/assets/images/logos/pai.jpg "webImage")
 
 
 image in the directory:
 
-![ima](https://github.com/WEN3141/EnglishHomework/blob/main/image/Image%20In%20The%20Directory.jpg)
+![DirectoryImage](https://github.com/WEN3141/EnglishHomework/blob/main/image/Image%20In%20The%20Directory.jpg)
